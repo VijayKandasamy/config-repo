@@ -6,8 +6,8 @@ server:
   port: 8080
 
 greeting:
-    displayFortune: false
-    printMsg: "Got values from property file - outside application!!!"
+    displayFortune: true
+    printMsg: "Got values from property file - PA ouside application!!!"
 
 fortune:
   ribbon:
